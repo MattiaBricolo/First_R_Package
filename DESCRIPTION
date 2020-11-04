@@ -1,0 +1,13 @@
+Package: ggCorrs
+Type: Package
+Title: Plot ACF, PACF and CCF using ggplot2
+Version: 0.1.0
+Author: Mattia Bricolo
+Maintainer: Mattia Bricolo <mattia.bricolo1996@gmail.com>
+Description: A tool to have the global autocorrelation, partial autocorrelation and cross-correlation functions using ggplot2.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2
+Depends: R (>= 3.6.3), ggplot2
+RoxygenNote: 7.1.1
